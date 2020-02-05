@@ -27,7 +27,7 @@ public class adadad extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated methodasdasdas stub
-		response.getWriter().append("Served at: ").append(request.getContextPath());asdasd
+		response.getWriter().append("Served at: ").append(request.getContextPath());asd
 	}
 
 	/**
